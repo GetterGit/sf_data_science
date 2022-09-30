@@ -4,4 +4,4 @@ From [the SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Projects
 
-[Project 0. Guess a number](https://github.com/GetterGit/sf_data_science/tree/main/8_3_guess_random_number)
+[Project 0: Guess a number](https://github.com/GetterGit/sf_data_science/tree/main/Project%200:%20Guess%20a%20number)
