@@ -2,17 +2,17 @@
 
 ## Outline
 
-[1. Project description](https://github.com/gettergit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Project-description)
+[1. Project description](https://github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Project-description)
 
-[2. Case solved](https://github.com/gettergit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Case-solved)
+[2. Case solved](https://github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Case-solved)
 
-[3. Brief data overview](https://github.com/gettergit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Brief-data-overview)
+[3. Brief data overview](https://github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Brief-data-overview)
 
-[4. Project stages](https://github.com/gettergit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Project-stages)
+[4. Project stages](https://github.com/github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Project-stages)
 
-[5. Results](https://github.com/gettergit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Results)
+[5. Results](https://github.com/github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Results)
 
-[6. Conclusions](https://github.com/gettergit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Conclusions)
+[6. Conclusions](https://github.com/github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Conclusions)
 
 ### 1. Project description
 
