@@ -1,24 +1,22 @@
-# Project 0: Guess a number
+# Homework 0: Guess a number
 
 ## Outline
 
-[1. Project description](https://github.com/GetterGit/sf_data_science/tree/main/Homework%200:%20guess%20a%20number/README.md#Project-description)
+[1. Project description](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Project-description)
 
-[2. Case solved](https://github.com/GetterGit/sf_data_science/tree/main/Homework%200:%20guess%20a%20number/README.md#Case-solved)
+[2. Case solved](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Case-solved)
 
-[3. Brief data overview](https://github.com/GetterGit/sf_data_science/tree/main//Homework%200:%20guess%20a%20number/README.md#Brief-data-overview)
+[3. Brief data overview](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Brief-data-overview)
 
-[4. Project stages](https://github.com/github.com/GetterGit/sf_data_science/tree/main//Homework%200:%20guess%20a%20number/README.md#Project-stages)
+[4. Project stages](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Project-stages)
 
-[5. Results](https://github.com/github.com/GetterGit/sf_data_science/tree/main//Homework%200:%20guess%20a%20number/README.md#Results)
+[5. Results](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Results)
 
-[6. Conclusions](https://github.com/github.com/GetterGit/sf_data_science/tree/main//Homework%200:%20guess%20a%20number/README.md#Conclusions)
+[6. Conclusions](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Conclusions)
 
 ### 1. Project description
 
 A number-guessing game where computer has to guess a randomly generated number in less than 20 attempts.
-
-:arrow_up:[back to outline](https://github.com/GetterGit/sf_data_science/tree/main/Project%200:%20Guess%20a%20number/README.md#Outline)
 
 ### 2. Case solved
 
@@ -38,7 +36,7 @@ We need to write a program which guesses a randomly generated number for less th
 
 - How to write a clean and well-documented code.
 
-:arrow_up:[back to outline](https://github.com/GetterGit/sf_data_science/tree/main/Project%200:%20Guess%20a%20number/README.md#Outline)
+:arrow_up:[back to outline](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Outline)
 
 ### 3. Brief data overview
 
@@ -61,4 +59,4 @@ We need to write a program which guesses a randomly generated number for less th
 - Learned how to document the code.
 - Learned some of PEP8 basics.
 
-:arrow_up:[back to outline](https://github.com/GetterGit/sf_data_science/tree/main/Project%200:%20Guess%20a%20number/README.md#Outline)
+:arrow_up:[back to outline](https://github.com/GetterGit/sf_data_science/blob/main/Homework%200:%20Guess%20a%20number/README.md#Outline)
