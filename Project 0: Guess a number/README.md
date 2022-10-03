@@ -12,7 +12,8 @@
 
 [5. Results](https://github.com/github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Results)
 
-[6. Conclusions](https://github.com/github.com/GetterGit/sf_data_science/tree/main/project%200:%20guess%20a%20number/README.md#Conclusions)
+[6. Conclusions](https://github.com/github.com/GetterGit/sf_data_science/tree/
+main/project%200:%20guess%20a%20number/README.md#Conclusions)
 
 ### 1. Project description
 
