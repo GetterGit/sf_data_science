@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project folders
+Project\ 1:\ HeadHunter\ CV\ analysis/
+Project\ 2:\ HeadHunter\ CV\ analysis\ (SQL)/
+My_Github
